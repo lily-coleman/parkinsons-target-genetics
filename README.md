@@ -5,8 +5,8 @@
 **Data:** Open Targets Platform (target–disease association scores) and the GWAS Catalog (genetic variant associations), downloaded automatically in Python.
 
 **Key findings:**
-- GBA1 ranked [X] of [Y] targets by overall association score.
-- Genetic and literature scores were [weakly/moderately] correlated (Spearman rho = [value]).
+- GBA1 ranked 11 of 1000 targets by overall association score.
+- Genetic and literature scores were moderately correlated (Spearman rho =  0.41).
 - Targets with high genetic but low literature evidence included [genes].
 
 ![Genetic evidence vs literature](fig2_genetic_vs_literature.png)
